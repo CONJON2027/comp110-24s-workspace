@@ -50,3 +50,4 @@ if result_box == WHITE_BOX:
         print('Close! Correct column, wrong row.')
     elif rowchoice == secret_row: 
         print('Close! Correct row, wrong column.') #gives clue if close
+        
